@@ -1,0 +1,21 @@
+word,count,contains,linenumber
+twinkle,2,both V  and C,[1]
+little,1,both V and C,[1]
+star,1,both V and C,[1]
+how,1,both V and C,[2]
+I,1,only V,[2]
+wonder,1,both V and C,[2]
+what,1,both V and C,[2]
+you,1,both V and C,[2]
+are,1,both V and C,[2]
+up,1,both V and C,[3]
+above,1,both V and C,[3]
+the,2,both V and C,"[3, 4]"
+mount,1,both V and C,[3]
+so,1,both V and C,[3]
+high,1,both V and C,[3]
+like,1,both V and C,[4]
+a,1,only V,"[1, 2, 3, 4]"
+diamond,1,both V and C,[4]
+in,1,both V and C,"[1, 4]"
+sky,1,only C,[4]
